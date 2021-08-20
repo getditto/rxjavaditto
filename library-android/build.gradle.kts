@@ -48,6 +48,10 @@ dependencies {
     implementation(SupportLibs.ANDROIDX_APPCOMPAT)
     implementation(SupportLibs.ANDROIDX_CORE_KTX)
 
+    implementation("live.ditto:ditto:latest.release")
+    implementation("io.reactivex.rxjava3:rxjava:3.1.0");
+
+
     testImplementation(TestingLib.JUNIT)
 
     androidTestImplementation(AndroidTestingLib.ANDROIDX_TEST_RUNNER)

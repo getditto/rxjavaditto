@@ -17,6 +17,12 @@ allprojects {
         mavenCentral()
     }
 }
+buildscript {
+    val compose_version by extra("1.0.1")
+    dependencies {
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.21")
+    }
+}
 
 subprojects {
     apply {
