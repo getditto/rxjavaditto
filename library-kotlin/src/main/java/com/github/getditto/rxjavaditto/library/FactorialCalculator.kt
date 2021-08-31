@@ -1,4 +1,4 @@
-package com.github.getditto.rxjavaditto.library
+package live.ditto.rxjava3-ditto.library
 
 object FactorialCalculator {
 

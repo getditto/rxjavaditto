@@ -1,6 +1,6 @@
-package com.github.getditto.rxjavaditto.library
+package live.ditto.rxjava3-ditto.library
 
-import com.github.getditto.rxjavaditto.library.FactorialCalculator.computeFactorial
+import live.ditto.rxjava3-ditto.library.FactorialCalculator.computeFactorial
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertThrows
 import org.junit.Test

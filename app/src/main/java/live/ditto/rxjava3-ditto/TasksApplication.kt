@@ -1,4 +1,4 @@
-package com.github.getditto.rxjavaditto.app
+package live.ditto.rxjava3-ditto
 
 import android.app.Application
 import android.content.Context

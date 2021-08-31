@@ -1,4 +1,4 @@
-package com.github.getditto.rxjavaditto.app
+package live.ditto.rxjava3-ditto
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
