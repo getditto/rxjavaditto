@@ -1,7 +1,7 @@
-const val PUBLISHING_GROUP = "com.github.getditto.rxjavaditto"
+const val PUBLISHING_GROUP = "live.ditto.rxjava3ditto"
 
 object AppCoordinates {
-    const val APP_ID = "com.github.getditto.rxjavaditto.app"
+    const val APP_ID = "live.ditto.rxjava3ditto"
 
     const val APP_VERSION_NAME = "1.0.0"
     const val APP_VERSION_CODE = 1

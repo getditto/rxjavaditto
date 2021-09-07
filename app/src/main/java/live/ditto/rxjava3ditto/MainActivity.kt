@@ -1,4 +1,4 @@
-package com.github.getditto.rxjavaditto.app
+package live.ditto.rxjava3ditto
 
 import android.os.Bundle
 import androidx.activity.compose.setContent

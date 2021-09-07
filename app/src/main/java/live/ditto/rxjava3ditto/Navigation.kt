@@ -1,4 +1,4 @@
-package com.github.getditto.rxjavaditto.app
+package live.ditto.rxjava3ditto
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavController

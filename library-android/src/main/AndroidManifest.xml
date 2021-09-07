@@ -1,2 +1,2 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.getditto.rxjavaditto.library.android" />
+    package="live.ditto.rxjava3ditto.library.android" />

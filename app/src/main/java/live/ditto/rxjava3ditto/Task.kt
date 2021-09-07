@@ -1,4 +1,4 @@
-package com.github.getditto.rxjavaditto.app
+package live.ditto.rxjava3ditto
 
 import java.util.UUID
 import live.ditto.DittoDocument
