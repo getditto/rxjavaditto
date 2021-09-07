@@ -20,7 +20,6 @@ rootProject.name = ("rxjavaditto")
 
 include(
     "app",
-    "library-android",
-    "library-kotlin"
+    "library-android"
 )
 include(":tasks")

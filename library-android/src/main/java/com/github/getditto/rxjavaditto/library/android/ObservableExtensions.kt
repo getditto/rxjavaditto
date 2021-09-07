@@ -1,4 +1,4 @@
-package live.ditto.rxjava3-ditto.library.android
+package live.ditto.rxjava3ditto.library.android
 import io.reactivex.rxjava3.core.Observable
 
 import live.ditto.*

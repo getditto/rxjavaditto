@@ -1,4 +1,4 @@
-package live.ditto.rxjava3-ditto
+package live.ditto.rxjava3ditto
 
 import java.util.UUID
 import live.ditto.DittoDocument

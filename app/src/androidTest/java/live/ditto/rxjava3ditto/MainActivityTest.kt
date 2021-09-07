@@ -1,4 +1,4 @@
-package live.ditto.rxjava3-ditto
+package live.ditto.rxjava3ditto
 
 import androidx.test.ext.junit.rules.activityScenarioRule
 import androidx.test.ext.junit.runners.AndroidJUnit4

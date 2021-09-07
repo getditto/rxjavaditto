@@ -1,4 +1,4 @@
-package live.ditto.rxjava3-ditto
+package live.ditto.rxjava3ditto
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavController

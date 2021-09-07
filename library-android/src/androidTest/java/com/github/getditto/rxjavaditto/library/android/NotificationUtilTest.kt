@@ -1,4 +1,4 @@
-package live.ditto.rxjava3-ditto.library.android
+package live.ditto.rxjava3ditto.library.android
 
 import android.app.Notification
 import androidx.test.ext.junit.runners.AndroidJUnit4

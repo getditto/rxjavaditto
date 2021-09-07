@@ -1,4 +1,4 @@
-package live.ditto.rxjava3-ditto
+package live.ditto.rxjava3ditto
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.material.FloatingActionButton
@@ -18,7 +18,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import live.ditto.rxjava3-ditto.library.android.asObservable
+import live.ditto.rxjava3ditto.library.android.asObservable
 import io.reactivex.rxjava3.core.Observable
 import live.ditto.DittoDocumentID
 
